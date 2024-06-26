@@ -17,17 +17,17 @@ text-emphasis-skip: vowels;
 ### Values
 
 - `none`
-    - : No characters skipped.
+  - : No characters skipped.
 - `capitals`
-    - : All capital characters skipped.
+  - : All capital characters skipped.
 - `consonants`
-    - : All consonants skipped.
+  - : All consonants skipped.
 - `dutch`
-    - : All capitals, and all vowels skipped, and `ij` is considered a vowel.
+  - : All capitals, and all vowels skipped, and `ij` is considered a vowel.
 - `lowercase`
-    - : All lowercase characters skipped.
+  - : All lowercase characters skipped.
 - `vowels`
-    - : All vowels skipped.
+  - : All vowels skipped.
 
 ## Examples
 
