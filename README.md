@@ -4,5 +4,11 @@ Some proposals for various (Web) standards, from my decades of experience as a (
 
 ## List
 
-- [[HTML] Threading Text](html/threading-text.md)
-- [[CSS] Threading Text](css/threading-text.md)
+### HTML
+
+- [Threading Text](html/threading-text.md)
+
+### CSS
+
+- [`text-emphasis-skip`](css/text-emphasis-skip.md)
+- [Threading Text](css/threading-text.md)
