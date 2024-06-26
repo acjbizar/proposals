@@ -10,5 +10,6 @@ Some proposals for various (Web) standards, from my decades of experience as a (
 
 ### CSS
 
+- [`@ambilight`](css/@ambilight.md)
 - [`text-emphasis-skip`](css/text-emphasis-skip.md)
 - [Threading Text](css/threading-text.md)
