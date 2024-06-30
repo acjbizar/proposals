@@ -19,18 +19,20 @@ text-emphasis-skip: vowels;
 
 ### Values
 
-- `none`
-  - : No characters skipped.
-- `capitals`
-  - : All capital characters skipped.
-- `consonants`
-  - : All consonants skipped.
-- `lowercase`
-  - : All lowercase characters skipped.
-- `numbers`
-  - : All numeral characters skipped.
-- `vowels`
-  - : All vowels skipped.
+<dl>
+<dt>`none`</dt>
+<dd>No characters skipped.</dd>
+<dt>`capitals`</dt>
+<dd>All capital characters skipped.</dd>
+<dt>`consonants`</dt>
+<dd>All consonants skipped.</dd>
+<dt>`lowercase`</dt>
+<dd>All lowercase characters skipped.</dd>
+<dt>`numbers`</dt>
+<dd>All numeral characters skipped.</dd>
+<dt>`vowels`</dt>
+<dd>All vowels skipped.</dd>
+</dl>
 
 ## Examples
 
