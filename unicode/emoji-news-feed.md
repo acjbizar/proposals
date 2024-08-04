@@ -1,8 +1,6 @@
 
 # News Feed Emoji
 
-## TODO
+## Sample Rendering
 
-- [ ] Add reference image
-- [ ] Add sample rendering
-- [ ] Address potential concerns
+![Feed Icon.](https://upload.wikimedia.org/wikipedia/commons/4/46/Generic_Feed-icon.svg)
