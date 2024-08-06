@@ -6,3 +6,7 @@
 ```html
 <link rel="security" href="https://deidee.com/.well-known/security.txt">
 ```
+
+## Sources
+
+* https://securitytxt.org/
