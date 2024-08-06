@@ -36,7 +36,7 @@ A ``security.txt`` meta data profile, using the [<abbr>XHTML</abbr> Meta Data Pr
             <dd>
                 <q cite="https://www.rfc-editor.org/rfc/rfc9116#name-acknowledgments">The "Acknowledgments" field indicates a link to a page where security researchers are recognized for their reports. The page being referenced should list security researchers that reported security vulnerabilities and collaborated to remediate them. Organizations should be careful to limit the vulnerability information being published in order to prevent future attacks.</q>
             </dd>
-            <dt id="security-canonical">security-canonical</dt>
+            <dt id="security-canonical">security-canonical[^1]</dt>
             <dd>
                 <q cite="https://www.rfc-editor.org/rfc/rfc9116#name-canonical">The "Canonical" field indicates the canonical URIs where the "security.txt" file is located, which is usually something like "https://example.com/.well-known/security.txt".</q>
             </dd>
@@ -48,7 +48,7 @@ A ``security.txt`` meta data profile, using the [<abbr>XHTML</abbr> Meta Data Pr
             <dd>
                 <q cite="https://www.rfc-editor.org/rfc/rfc9116#name-hiring">The "Hiring" field is used for linking to the vendor's security-related job positions.</q>
             </dd>
-            <dt id="security-csaf">security-casf</dt>
+            <dt id="security-csaf">security-csaf</dt>
             <dd>
                 <q cite="https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html#abstract">The Common Security Advisory Framework (<abbr>CSAF</abbr>) Version 2.0 is the definitive reference for the language which supports creation, update, and interoperable exchange of security advisories as structured information on products, vulnerabilities and the status of impact and remediation among interested parties.</q>
                 <q cite="https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html#718-requirement-8-securitytxt">In the security.txt there MUST be at least one field <code>CSAF</code> which points to the <code>provider-metadata.json</code> (requirement 7).</q>
@@ -101,7 +101,7 @@ A ``security.txt`` meta data profile, using the [<abbr>XHTML</abbr> Meta Data Pr
             <dd>
                 <q cite="https://www.rfc-editor.org/rfc/rfc9116#name-hiring">The "Hiring" field is used for linking to the vendor's security-related job positions.</q>
             </dd>
-            <dt id="security-csaf">security-casf</dt>
+            <dt id="security-csaf">security-csaf</dt>
             <dd>
                 <q cite="https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html#abstract">The Common Security Advisory Framework (<abbr>CSAF</abbr>) Version 2.0 is the definitive reference for the language which supports creation, update, and interoperable exchange of security advisories as structured information on products, vulnerabilities and the status of impact and remediation among interested parties.</q>
                 <q cite="https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html#718-requirement-8-securitytxt">In the security.txt there MUST be at least one field <code>CSAF</code> which points to the <code>provider-metadata.json</code> (requirement 7).</q>
