@@ -1,5 +1,5 @@
 
-# rel=security
+# `rel=security`
 
 ## Examples
 
